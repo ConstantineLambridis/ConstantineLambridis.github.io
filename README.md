@@ -14,4 +14,3 @@ However, my latest project is not about a specific person, but a group of people
 
 
 
-_config.yml
