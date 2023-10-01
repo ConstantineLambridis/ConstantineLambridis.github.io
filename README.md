@@ -13,5 +13,5 @@ However, my latest project is not about a specific person, but a group of people
 ## ***What I've been working on***
 
 
-![infographic]([Lehigh Football Attendance Infographic.pdf)(https://github.com/ConstantineLambridis/ConstantineLambridisSite/files/12778137/Lehigh.Football.Attendance.Infographic.pdf)
+![infographic](https://github.com/ConstantineLambridis/ConstantineLambridisSite/files/12778137/Lehigh.Football.Attendance.Infographic.pdf)
 
