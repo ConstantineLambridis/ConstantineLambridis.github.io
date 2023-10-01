@@ -13,5 +13,5 @@ However, my latest project is not about a specific person, but a group of people
 ## ***What I've been working on***
 
 
-![infographic](https://github.com/ConstantineLambridis/ConstantineLambridisSite/files/12778137/Lehigh.Football.Attendance.Infographic.pdf)
+I have been recently fascinated by the drops in college football attendance. Across the nation, more and more schools have been seeing attendance decreases, and Lehigh is no different as diaplyed by this![chart](https://github.com/ConstantineLambridis/ConstantineLambridisSite/files/12778137/Lehigh.Football.Attendance.Infographic.pdf).
 
