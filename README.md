@@ -18,5 +18,5 @@ I have been recently fascinated by the drops in college football attendance. Acr
 
 ## ***Timeline of the History of The Rivalry***
 
-Here is a ![timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S7bDhOVP0gHIE_gotz2NfE3uh-EO2kgOTI5Lv-QMPew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>) describing some notable events in the history of The Rivalry between Lehigh and Lafayette
+Here is a [timeline](<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S7bDhOVP0gHIE_gotz2NfE3uh-EO2kgOTI5Lv-QMPew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>) describing some notable events in the history of The Rivalry between Lehigh and Lafayette
 
