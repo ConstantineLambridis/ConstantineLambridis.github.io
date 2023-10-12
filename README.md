@@ -25,4 +25,4 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 
 ## ***Practice ChartBuilder Assignment***
 
-![Lehigh_Undergraduate_Colleges_by_Population_Percent_of_Undergraduate_Enrollment_chartbuilder (1)](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/a9bf0809-dc08-4e2f-9dbe-fe5ba3ba1f63)
+![Percent_of_Undergraduate_Enrollment_in_all_Lehigh_University_Colleges_Percent_of_Undergraduate_Enrollment_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/04d015f3-9051-4a61-a91e-555714725153)
