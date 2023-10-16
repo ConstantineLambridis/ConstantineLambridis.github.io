@@ -18,6 +18,9 @@ I have been recently fascinated by the drops in college football attendance. Acr
 Here is a timeline of the declining attendance at Lehigh football home games.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ruWqlPteoCH8qY43_Of0-XsITpNZqWZgL1Ll6Z-lhLI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+![Lehigh_Football_Average_Attendance_and_Wins_Since_2001_11_11 65_chartbuilder (1)](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/7cf598da-6eec-4c3a-a9a6-13d6460798dc)
+
+
 
 ## ***Timeline of the History of The Rivalry***
 
