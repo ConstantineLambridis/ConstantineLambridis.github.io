@@ -33,3 +33,4 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 
 ![Student_Population_in_Lehigh's_3_Biggest_Undergrad_Colleges_AS_BUS_ENG_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/b0718501-e4e9-47e3-b70b-b94404188c7d)
 
+![GDP_per_Capita_VS_Life_Satisfaction_of_Countries__GDP_per_capita_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/f23937e8-8755-4bdb-8d77-9f63694cfa06)
