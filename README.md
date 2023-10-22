@@ -26,6 +26,8 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 
 (<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S7bDhOVP0gHIE_gotz2NfE3uh-EO2kgOTI5Lv-QMPew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
 
+![Lehigh_Football_Average_Away_Attendance_Since_2012_Attendance_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/2541cab2-8bce-47f1-bc58-789247459134)
+
 ## ***Practice ChartBuilder Assignments***
 
 ![Percent_of_Undergraduate_Enrollment_in_all_Lehigh_University_Colleges_Percent_of_Undergraduate_Enrollment_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/04d015f3-9051-4a61-a91e-555714725153)
