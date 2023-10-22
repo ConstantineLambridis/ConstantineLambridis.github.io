@@ -21,12 +21,14 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 
 ![Lehigh_Football_Average_Attendance_and_Wins_Since_2002_11_11 65_chartbuilder OFFICIAL](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/39a85403-aed7-443d-af73-e26c9f258193)
 
+![Lehigh_Football_Average_Away_Attendance_Since_2012_Attendance_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/2541cab2-8bce-47f1-bc58-789247459134)
+
+
 
 ## ***Timeline of the History of The Rivalry***
 
 (<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S7bDhOVP0gHIE_gotz2NfE3uh-EO2kgOTI5Lv-QMPew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
 
-![Lehigh_Football_Average_Away_Attendance_Since_2012_Attendance_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/2541cab2-8bce-47f1-bc58-789247459134)
 
 ## ***Practice ChartBuilder Assignments***
 
