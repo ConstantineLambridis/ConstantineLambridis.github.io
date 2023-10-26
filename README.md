@@ -24,7 +24,6 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 ![Lehigh_Football_Average_Away_Attendance_Since_2012_Attendance_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/2541cab2-8bce-47f1-bc58-789247459134)
 
 
-
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MCAZP_vIv-IP9zUQuVDNcQvoYhGL_es&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## ***Timeline of the History of The Rivalry***
