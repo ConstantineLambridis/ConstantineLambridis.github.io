@@ -30,7 +30,7 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 (<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1S7bDhOVP0gHIE_gotz2NfE3uh-EO2kgOTI5Lv-QMPew&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
 
 
-## ***Practice ChartBuilder Assignments***
+## ***Practice Assignments***
 
 ![Percent_of_Undergraduate_Enrollment_in_all_Lehigh_University_Colleges_Percent_of_Undergraduate_Enrollment_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/04d015f3-9051-4a61-a91e-555714725153)
 
@@ -38,3 +38,6 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 ![Student_Population_in_Lehigh's_3_Biggest_Undergrad_Colleges_AS_BUS_ENG_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/b0718501-e4e9-47e3-b70b-b94404188c7d)
 
 ![GDP_per_Capita_VS_Life_Satisfaction_of_Countries__GDP_per_capita_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/f23937e8-8755-4bdb-8d77-9f63694cfa06)
+
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=117EdI0I_nISxR3FEtnDdkDTJcKbrels&ehbc=2E312F" width="640" height="480"></iframe>
