@@ -42,3 +42,6 @@ Here is a timeline of the declining attendance at Lehigh football home games.
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=117EdI0I_nISxR3FEtnDdkDTJcKbrels&ehbc=2E312F" width="640" height="480"></iframe>
+
+![Dashboard 1 (1)](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/a2d0c919-f3d8-4782-a4ec-52b2132d6b99)
+
