@@ -18,13 +18,26 @@ I have been recently fascinated by the drops in college football attendance. Acr
 ![Lehigh Football Attendance Infograph](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/c4a22f48-f7c5-49ec-b899-1798388987dc)
 
 
+Below is a timeline of Lehigh football's time in the Patriot League placed in the context of the the team's attendance compared to the league. The Patriot League was initially established because of the academic similarities between the founding institutions, but as time had progressed, the data suggests that success and attendance have become more closely related over time. While attendance was consistently pushing five figures for many teams in the conference's early history, many schools including Lehigh, have seen a significant drop off in attendance since the mid 2000s. A study of the conference is imperative to understanding Lehigh's attendance dip because it gives us a base of similar institutions to contextualize Lehigh's attendance problems, while also giving us an idea of the struggle of smaller Division I programs' struggles to fill their stadiums. 
+
+
 Here is a timeline of the declining attendance at Lehigh football home games.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ruWqlPteoCH8qY43_Of0-XsITpNZqWZgL1Ll6Z-lhLI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
+Below is a bar graph noting Lehigh football attendance and wins for every season since 2002. In an attempt to understand the dip in attendance in the 21st century, I attempted to understand if this was caused by record, stadium distance, or something else, but this graph provides us with the knowledge that record has less to do with it than previously thought. Attendance has seen a steady decline since 2002, with a slight increase 2013 before falling to 50-year lows in the late 2010s and early 2020s. Despite some of the team's best performances of the century in 2010, 2011, and 2012, the team still saw lower attendance figures than in 2002, 2003, 2005, and 2007, with each of those years boasting a lower win total than the formerly mentioned years. This leads us to believe that team performance is not one of the leading factors in getting fans to attend games, but is still important.
+
+
 ![Lehigh_Football_Average_Attendance_and_Wins_Since_2002_11_11 65_chartbuilder OFFICIAL](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/39a85403-aed7-443d-af73-e26c9f258193)
 
+
+In the line graph below, Lehigh football's away attendance from 2012-2022 is displayed. It is important to study the attendance of Lehigh football away games in tandem with their home attendance because it gives us a good idea of how similar institutions are performing in the field, allowing us to properly assess Lehigh's issue with proper context. This graph notes a severe and rapid decline in attendance from levels in the 9,000s to around 3,500 in just a matter of years. The sharp incline from 2021-22 is solely due to Holy Cross pulling in historic attendance numbers above 10,000+ fans for many of their games. Still, this shows that Lehigh's opponents are highly dependent on their team's performance to draw fans due to the closeness of their stadium to their main campus, while Lehigh is at an inherent disadvantage with their stadium's distance from their main campus.
+
+
 ![Lehigh_Football_Average_Away_Attendance_Since_2012_Attendance_chartbuilder](https://github.com/ConstantineLambridis/ConstantineLambridisSite/assets/145692944/2541cab2-8bce-47f1-bc58-789247459134)
+
+
+The map below displays Lehigh football's games during the 2023 season through October 21. It notes the attendance and outcome of all their contests. Before Lehigh's matchup vs Lafayette, which dragged the team's average home attendance to a similar level of the past five years, this was shaping up to be Lehigh's least attended season in terms of average home attendance. This could be for a number of factors, the distance from the stadium to Asa Packer campus, the depleted football culture at Lehigh, the program still recovering from the effects of COVID-19, but the team also only won two games all season, which was noted by a lot of students as a primary reason why they did not think the program was seeing much success in terms of attendance. The map also notes the attendance of Lehigh's away games, which dislay similarly low numbers for similar reasons to the Mountain Hawks. Lehigh's away games against Dartmouth, Merrimack, and Bucknell all drew less than 4,000 fans.
 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MCAZP_vIv-IP9zUQuVDNcQvoYhGL_es&ehbc=2E312F" width="640" height="480"></iframe>
